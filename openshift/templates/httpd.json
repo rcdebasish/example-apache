@@ -228,7 +228,7 @@
       "displayName": "Namespace",
       "description": "The OpenShift Namespace where the ImageStream resides.",
       "required": true,
-      "value": "debasish-roychoudhury"
+      "value": "openshift"
     },
     {
       "name": "MEMORY_LIMIT",
